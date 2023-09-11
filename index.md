@@ -1,1 +1,5 @@
-|| [LINKS](https://humama.github.io/os232/LINKS) || [LOG](https://humama.github.io/os232/TXT/mylog.txt) || [GitHub](https://github.com/humama/os232/) ||
+# OS232
+
+|| [TARBALL](https://humama.github.io/os232/SandBox/cbkadal.tar.xz) || [LINKS](https://humama.github.io/os232/LINKS) || [LOG](https://humama.github.io/os232/TXT/mylog.txt) || [GitHub](https://github.com/humama/os232/) ||
+
+**REV: Mon 11 Sep 2023 11:57**
