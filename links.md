@@ -2,6 +2,8 @@
 permalink: LINKS/
 ---
 
+# LINKS
+
 * [Mengenal Linux: Sistem Operasi Open Source dan Gratis](https://www.dewaweb.com/blog/sistem-operasi-linux/) --- 
 This page explains Linux as a whole starting from the definition, functions, types, and pros & cons.
 <br>
