@@ -16,4 +16,7 @@ This page explains about understanding cyber security, its benefits in business,
 * [User Operating System Interface](https://www.youtube.com/watch?v=psDpbWscPuE&list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O&index=8) --- <br>
 This video explains about user operating system interface.
 <br>
+* [scp command - SCP to Securely Transfer Files/Folders in Linux](https://www.youtube.com/watch?v=fmMg6cyww14) --- <br>
+This video explains about command scp in Linux.
+<br>
 <hr>
