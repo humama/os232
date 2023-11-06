@@ -34,4 +34,10 @@ This page explains about command chmod in Linux.
 10. [Linux History](https://www.geeksforgeeks.org/linux-history/) --- <br>
 This page explains about history of Linux.
 <br>
+11. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/) --- <br>
+This page explains about linux from scratch.
+<br>
+12. [Nano vs VIM editor – What’s the difference between nano and vim editors?](https://www.geeksforgeeks.org/nano-vs-vim-editor-whats-the-difference-between-nano-and-vim-editors/) --- <br>
+This page explains the pros and cons of nano and vim editor in linux.
+<br>
 <hr>
