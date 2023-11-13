@@ -40,4 +40,10 @@ This page explains about linux from scratch.
 12. [Nano vs VIM editor – What’s the difference between nano and vim editors?](https://www.geeksforgeeks.org/nano-vs-vim-editor-whats-the-difference-between-nano-and-vim-editors/) --- <br>
 This page explains the pros and cons of nano and vim editor in linux.
 <br>
+13. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- <br>
+This page explains about deadlock in Operating System. 
+<br>
+15. [Recovery from Deadlock in Operating System](https://www.geeksforgeeks.org/recovery-from-deadlock-in-operating-system/) --- <br>
+This page explains about recovery form deadlock in Operating System.
+<br>
 <hr>
