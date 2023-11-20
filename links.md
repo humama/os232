@@ -1,6 +1,6 @@
----
+--
 permalink: LINKS/
----
+--
 
 # LINKS
 
@@ -35,7 +35,7 @@ This page explains about command chmod in Linux.
 This page explains about history of Linux.
 <br>
 11. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/) --- <br>
-This page explains about linux from scratch.
+This page is linux from scratch.
 <br>
 12. [Nano vs VIM editor – What’s the difference between nano and vim editors?](https://www.geeksforgeeks.org/nano-vs-vim-editor-whats-the-difference-between-nano-and-vim-editors/) --- <br>
 This page explains the pros and cons of nano and vim editor in linux.
@@ -43,7 +43,13 @@ This page explains the pros and cons of nano and vim editor in linux.
 13. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) --- <br>
 This page explains about deadlock in Operating System. 
 <br>
+14.[Difference Between Desktop Environment VS Window Manager in Linux](https://www.geeksforgeeks.org/difference-between-desktop-environment-vs-window-manager-in-linux/?ref=ml_lbp) --- <br>
+This page explains the difference between Desktop Environment and Window Manager in Linux.
+<br>
 15. [Recovery from Deadlock in Operating System](https://www.geeksforgeeks.org/recovery-from-deadlock-in-operating-system/) --- <br>
 This page explains about recovery form deadlock in Operating System.
+<br>
+16. [LFS 12.0 - How to build Linux From Scratch 12.0](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- <br>
+This is a video playlist in youtube for Linux from Scratch.
 <br>
 <hr>
